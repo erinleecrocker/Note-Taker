@@ -6,7 +6,7 @@ const { v4: uuidv4 } = require("uuid");
 // creates an "express" instance
 var app = express();
 // Sets an initial port and allows heroku
-var PORT = process.env.PORT || 8080;
+var PORT = process.env.PORT || 3001;
 
 // Middleware
 app.use(express.urlencoded({ extended: true }));
