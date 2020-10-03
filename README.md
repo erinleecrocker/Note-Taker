@@ -34,7 +34,7 @@ begin by clicking "Get Started":
 <img width="1440" alt="Screen Shot 2020-10-02 at 11 40 26 PM" src="https://user-images.githubusercontent.com/69767328/94982511-f9937580-0508-11eb-8815-96cd72d62748.png">
 then add notes by typing your information into the title area and text space below and click the save icon in the upper right hand corner.
 See your saved notes displayed on the left, you may click the trashcan icon to delete your note if you wish.
-<img width="1440" alt="Screen Shot 2020-10-02 at 11 40 26 PM" src="https://user-images.githubusercontent.com/69767328/94982532-3d867a80-0509-11eb-91ef-4a6471156ccd.png">
+<img width="1415" alt="Screen Shot 2020-10-02 at 11 44 29 PM" src="https://user-images.githubusercontent.com/69767328/94982566-86d6ca00-0509-11eb-91d4-f17bc97f1bf0.png">
         
 <br /> 
         
