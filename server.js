@@ -4,7 +4,7 @@ const uuid = require("uuid");
 //build instance 
 const app = express();
 // add a port
-const PORT = process.env.PORT || 8080;
+var PORT = process.env.PORT || 3001;
 const { v4: uuidv4 } = require("uuid");
 
 // add middleware
@@ -17,7 +17,7 @@ app.get("/notes", (req, res) => {
     res.sendFile(path.join(__dirname, "./public/notes.html"));
 });
 // get index
-app.get("*", (req, res) => {
+app.get("/", (req, res) => {
     res.sendFile(path.join(__dirname, "./public/index.html"));
   });
 // get api
