@@ -71,7 +71,7 @@ app.get("/notes", (req, res) => {
 
 //HTML ROUTE for core
 app.get("*", (req, res) => {
-    res.sendFile(path.join(__dirname, "../public/index.html"));
+    res.sendFile(path.join(__dirname, "./public/index.html"));
 });
 
 // LISTENER
